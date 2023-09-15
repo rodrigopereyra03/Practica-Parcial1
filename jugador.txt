@@ -1,0 +1,6 @@
+lionel,messi,10,8.9,miami
+paulo,dybala,10,6.7,roma
+dibu,martinez,1,0,aston
+rodrigo,pereyra,6,5,boca
+lautaro,martinez,10,9.0,inter
+cuti,romero,31,1.8,totenham
